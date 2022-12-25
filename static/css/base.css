@@ -2,16 +2,16 @@ body{
     background-color: lightyellow;
 }
 h1{
-    color:blue;
-    background-color: yellow;
+    color:green;
+    background-color: orange;
     text-align: center;
 }
 h2{
     color:green;
 }
 h3{
-    background-color: orange;
-    color: orangered;
+    background-color: black;
+    color: white;
     text-align: center;
 }
 
